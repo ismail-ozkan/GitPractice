@@ -6,6 +6,8 @@ public class Store {
         //some lines
         //some lines
 
+        //some more lines
+        //some more lines
     }
 
 }
