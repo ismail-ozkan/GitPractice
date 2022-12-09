@@ -7,5 +7,8 @@ public class Hat {
         // more lines
         // more lines
 
+        // some more lines
+        // some more lines
+
     }
 }
